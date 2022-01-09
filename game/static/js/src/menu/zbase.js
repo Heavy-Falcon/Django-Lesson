@@ -8,8 +8,3 @@ class AcGameMenu{
 		this.root.$ac_game.append(this.$menu);
 	}
 }
-class AcGame {
-    constructor(id) {
-
-    }
-}
